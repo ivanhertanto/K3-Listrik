@@ -9,5 +9,3 @@ Professional Training Provider for Managerial Improvement System
 
 ## Waktu Pelaksanaan:
 25 November 2024 sampai 4 Desember 2024
-
-
